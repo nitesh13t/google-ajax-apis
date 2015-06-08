@@ -1,0 +1,1 @@
+This is the placeholder for various AJAX APIs sample code and bug/feature suggestion list.
